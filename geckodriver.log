@@ -374,3 +374,8 @@ JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).
 1605460933882	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1607723324518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D9gjOJuSS7pg"
+1607723326790	Marionette	INFO	Listening on port 39621
+1607723326867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://start.fedoraproject.org/, line 292: TypeError: $(...).uls is not a function
+1607723341306	Marionette	INFO	Stopped listening on port 39621
